@@ -54,5 +54,5 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or questions, you can reach out to the project developer:
 
 - Developer's Portfolio: [bit.ly/jashgro](https://bit.ly/jashgro)
-- Telegram: [@developer_x](https://telegram.dog/developer_x)
+- Telegram: [@developer_x](https://telegram.dog/deveioper_x)
 - Support Group: [@huawei_watchfaces](https://telegram.dog/huawei_watchfaces)
