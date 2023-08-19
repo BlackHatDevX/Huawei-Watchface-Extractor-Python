@@ -130,7 +130,7 @@ def main():
 
 def show_help():
     arg_format = "%-10s"
-    print("Extract images from HWT or com.huawei.watchface file"
+    print("Extract images from HWT or com.huawei.watchface file")
     print("Usage: python watchface_extractor.py input_file.hwt [output_directory]")
     print(f"\t{arg_format}*.hwt or com.huawei.watchface file")
     print(f"\t{arg_format}optional output directory for extracted images. Defaults to <input>_extra")
