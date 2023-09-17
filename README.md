@@ -43,7 +43,7 @@ For now it cannot decrypt watchfaces with password encryption, if someone is wil
 
 ## TODO
 
-Encryption Watchfaces Fix (Watchface Decrypter)
+Encrypted Watchfaces Fix (Watchface Decrypter)
 
 ## License
 
